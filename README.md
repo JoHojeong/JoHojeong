@@ -1,4 +1,10 @@
-### Hi there 👋
+### 2021
+- 쇼미더동서 AI/길고양이 관리 시스템/장려상
+- 전국캡스톤디자인경진대회/청각장애인을 위한 치과 VR시스템/최우수상
+- 교내캡스톤디자인경진대회/청각장애인을 위한 치과 VR시스템/장려상
+- 동서AI해커톤경진대회/청각장애인을 위한 치과 VR시스템/우수상
+- 교내창업아이디어경진대회/청각장애인을 위한 치과 VR시스템/장려상
+- 하계 국내인턴십/(주)에핀
 
 <!--
 **JoHojeong/JoHojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
