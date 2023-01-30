@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=90" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1_dll@naver.com&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=1_dll@naver.com&show_icons=true">
 <!--
 **JoHojeong/JoHojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
